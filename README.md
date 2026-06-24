@@ -1,5 +1,12 @@
 # Helios Technical Assessment
 
+## Submission Links
+
+- 📄 [Review Document](https://docs.google.com/document/d/17Y0XJIWzssu1apdpB2iy3BkeNKXFicmUZ4-f0aAyQcM/edit?usp=sharing)
+- 🎥 [Explanatory Video](https://youtu.be/E1TB8TYddUw)
+
+---
+
 ## Project Overview
 Helios is designed to revolutionize cryptocurrency mining by integrating the TitanX protocol, a system known for its supply reduction and buy-pressure mechanisms. Unlike traditional mining platforms that use ETH, Helios utilizes TITANX for mining operations, offering a unique approach to cryptocurrency participation and asset growth.
 
