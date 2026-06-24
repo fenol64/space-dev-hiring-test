@@ -5,6 +5,8 @@
 - 📄 [Review Document](https://docs.google.com/document/d/17Y0XJIWzssu1apdpB2iy3BkeNKXFicmUZ4-f0aAyQcM/edit?usp=sharing)
 - 🎥 [Explanatory Video](https://youtu.be/E1TB8TYddUw)
 
+![Assessment](image.png)
+
 ---
 
 ## Project Overview
