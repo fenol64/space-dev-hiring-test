@@ -40,27 +40,28 @@ margin-bottom: 20px;
             }
         }
         .max_button {
-            width: 60px;
-            padding-top: 9px;
-            padding-bottom: 9px;
+            height: 35px;
+            padding: 0 10px;
             background-color: #BA3505;
             border: 1px solid #FE9C01;
-            border-radius: 30px;
             font-weight: bold;
+            border-top-right-radius: 20px;
+            border-bottom-right-radius: 20px;
             color: white;
             cursor: pointer;
         }
 
         .count_input {
             width: 17%;
-            margin-right: 1%;
-            height: 15px;
-            padding: 10px;
+            height: 35px;
+            padding: 0 10px;
             border: 2px solid #fff;
-            border-radius: 5px;
+            border-top-left-radius: 20px;
+            border-bottom-left-radius: 20px;
             outline: none;
             font-size: 16px;
             transition: border-color 0.3s ease;
+            color: #000;
         }
 
         .count_input:focus {

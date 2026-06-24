@@ -56,7 +56,7 @@ const StakeCount = ({
         }
         let maxValue = 0;
         if (inputType == "stakeLength") {
-            maxValue = 830;
+            maxValue = 250;
         } else if (inputType == "stakeAmplifier") {
             maxValue = 20;
         } else {
